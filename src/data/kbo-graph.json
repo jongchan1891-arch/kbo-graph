@@ -1,7 +1,7 @@
 ﻿{
     "meta":  {
-                 "date":  "2026-07-23",
-                 "generated":  "2026-07-24T19:03:24",
+                 "date":  "2026-07-24",
+                 "generated":  "2026-07-25T04:01:13",
                  "centerNodeId":  "kbo"
              },
     "nodes":  [
@@ -72,50 +72,62 @@
                       "size":  12
                   },
                   {
-                      "id":  "pit_왕옌청",
-                      "label":  "왕옌청",
+                      "id":  "pit_로건",
+                      "label":  "로건",
                       "type":  "pitcher",
                       "size":  9
                   },
                   {
-                      "id":  "pit_시라카와",
-                      "label":  "시라카와",
+                      "id":  "pit_나균안",
+                      "label":  "나균안",
                       "type":  "pitcher",
                       "size":  9
                   },
                   {
-                      "id":  "pit_테일러",
-                      "label":  "테일러",
+                      "id":  "pit_장유호",
+                      "label":  "장유호",
                       "type":  "pitcher",
                       "size":  9
                   },
                   {
-                      "id":  "pit_웰스",
-                      "label":  "웰스",
+                      "id":  "pit_임찬규",
+                      "label":  "임찬규",
                       "type":  "pitcher",
                       "size":  9
                   },
                   {
-                      "id":  "pit_김민준",
-                      "label":  "김민준",
+                      "id":  "pit_해치",
+                      "label":  "해치",
                       "type":  "pitcher",
                       "size":  9
                   },
                   {
-                      "id":  "pit_로드리게스",
-                      "label":  "로드리게스",
+                      "id":  "pit_구창모",
+                      "label":  "구창모",
                       "type":  "pitcher",
                       "size":  9
                   },
                   {
-                      "id":  "pit_김재윤",
-                      "label":  "김재윤",
+                      "id":  "pit_페덱",
+                      "label":  "페덱",
                       "type":  "pitcher",
                       "size":  9
                   },
                   {
-                      "id":  "pit_김재웅",
-                      "label":  "김재웅",
+                      "id":  "pit_최민석",
+                      "label":  "최민석",
+                      "type":  "pitcher",
+                      "size":  9
+                  },
+                  {
+                      "id":  "pit_정다훈",
+                      "label":  "정다훈",
+                      "type":  "pitcher",
+                      "size":  9
+                  },
+                  {
+                      "id":  "pit_조상우",
+                      "label":  "조상우",
                       "type":  "pitcher",
                       "size":  9
                   },
@@ -136,116 +148,126 @@
                   {
                       "source":  "kbo",
                       "target":  "samsung",
-                      "label":  "1위 0.618"
+                      "label":  "1위 0.622"
                   },
                   {
                       "source":  "kbo",
                       "target":  "kt",
-                      "label":  "2위 0.593"
+                      "label":  "2위 0.598"
                   },
                   {
                       "source":  "kbo",
                       "target":  "lg",
-                      "label":  "3위 0.571"
+                      "label":  "3위 0.565"
                   },
                   {
                       "source":  "kbo",
                       "target":  "kia",
-                      "label":  "4위 0.538"
+                      "label":  "4위 0.533"
                   },
                   {
                       "source":  "kbo",
                       "target":  "doosan",
-                      "label":  "5위 0.528"
+                      "label":  "5위 0.522"
                   },
                   {
                       "source":  "kbo",
                       "target":  "hanwha",
-                      "label":  "6위 0.488"
+                      "label":  "6위 0.494"
                   },
                   {
                       "source":  "kbo",
                       "target":  "nc",
-                      "label":  "7위 0.483"
+                      "label":  "7위 0.477"
                   },
                   {
                       "source":  "kbo",
                       "target":  "lotte",
-                      "label":  "8위 0.449"
+                      "label":  "8위 0.444"
                   },
                   {
                       "source":  "kbo",
                       "target":  "ssg",
-                      "label":  "9위 0.378"
+                      "label":  "9위 0.385"
                   },
                   {
                       "source":  "kbo",
                       "target":  "kiwoom",
-                      "label":  "10위 0.359"
+                      "label":  "10위 0.366"
                   },
                   {
-                      "source":  "doosan",
-                      "target":  "kt",
-                      "label":  "경기취소"
-                  },
-                  {
-                      "source":  "hanwha",
-                      "target":  "kia",
-                      "label":  "승 9-3"
-                  },
-                  {
-                      "source":  "hanwha",
-                      "target":  "pit_왕옌청",
-                      "label":  "승리투수"
-                  },
-                  {
-                      "source":  "kia",
-                      "target":  "pit_시라카와",
-                      "label":  "패전투수"
-                  },
-                  {
-                      "source":  "nc",
-                      "target":  "lg",
-                      "label":  "승 7-5"
-                  },
-                  {
-                      "source":  "nc",
-                      "target":  "pit_테일러",
-                      "label":  "승리투수"
-                  },
-                  {
-                      "source":  "lg",
-                      "target":  "pit_웰스",
-                      "label":  "패전투수"
-                  },
-                  {
-                      "source":  "ssg",
+                      "source":  "kt",
                       "target":  "lotte",
-                      "label":  "승 5-2"
+                      "label":  "승 5-4"
                   },
                   {
-                      "source":  "ssg",
-                      "target":  "pit_김민준",
+                      "source":  "kt",
+                      "target":  "pit_로건",
                       "label":  "승리투수"
                   },
                   {
                       "source":  "lotte",
-                      "target":  "pit_로드리게스",
+                      "target":  "pit_나균안",
+                      "label":  "패전투수"
+                  },
+                  {
+                      "source":  "hanwha",
+                      "target":  "lg",
+                      "label":  "승 4-8"
+                  },
+                  {
+                      "source":  "hanwha",
+                      "target":  "pit_장유호",
+                      "label":  "승리투수"
+                  },
+                  {
+                      "source":  "lg",
+                      "target":  "pit_임찬규",
+                      "label":  "패전투수"
+                  },
+                  {
+                      "source":  "ssg",
+                      "target":  "nc",
+                      "label":  "승 3-7"
+                  },
+                  {
+                      "source":  "ssg",
+                      "target":  "pit_해치",
+                      "label":  "승리투수"
+                  },
+                  {
+                      "source":  "nc",
+                      "target":  "pit_구창모",
                       "label":  "패전투수"
                   },
                   {
                       "source":  "samsung",
-                      "target":  "kiwoom",
-                      "label":  "승 3-1"
+                      "target":  "doosan",
+                      "label":  "승 15-4"
                   },
                   {
                       "source":  "samsung",
-                      "target":  "pit_김재윤",
+                      "target":  "pit_페덱",
                       "label":  "승리투수"
                   },
                   {
+                      "source":  "doosan",
+                      "target":  "pit_최민석",
+                      "label":  "패전투수"
+                  },
+                  {
                       "source":  "kiwoom",
-                      "target":  "pit_김재웅",
+                      "target":  "kia",
+                      "label":  "승 8-5"
+                  },
+                  {
+                      "source":  "kiwoom",
+                      "target":  "pit_정다훈",
+                      "label":  "승리투수"
+                  },
+                  {
+                      "source":  "kia",
+                      "target":  "pit_조상우",
                       "label":  "패전투수"
                   },
                   {
