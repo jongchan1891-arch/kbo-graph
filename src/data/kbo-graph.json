@@ -1,0 +1,262 @@
+﻿{
+    "meta":  {
+                 "date":  "2026-07-23",
+                 "generated":  "2026-07-24T18:52:32",
+                 "centerNodeId":  "kbo"
+             },
+    "nodes":  [
+                  {
+                      "id":  "kbo",
+                      "label":  "KBO 2026",
+                      "type":  "league",
+                      "size":  20
+                  },
+                  {
+                      "id":  "samsung",
+                      "label":  "삼성 (1위)",
+                      "type":  "team",
+                      "size":  18
+                  },
+                  {
+                      "id":  "kt",
+                      "label":  "KT (2위)",
+                      "type":  "team",
+                      "size":  17
+                  },
+                  {
+                      "id":  "lg",
+                      "label":  "LG (3위)",
+                      "type":  "team",
+                      "size":  16
+                  },
+                  {
+                      "id":  "kia",
+                      "label":  "KIA (4위)",
+                      "type":  "team",
+                      "size":  15
+                  },
+                  {
+                      "id":  "doosan",
+                      "label":  "두산 (5위)",
+                      "type":  "team",
+                      "size":  14
+                  },
+                  {
+                      "id":  "hanwha",
+                      "label":  "한화 (6위)",
+                      "type":  "team",
+                      "size":  13
+                  },
+                  {
+                      "id":  "nc",
+                      "label":  "NC (7위)",
+                      "type":  "team",
+                      "size":  12
+                  },
+                  {
+                      "id":  "lotte",
+                      "label":  "롯데 (8위)",
+                      "type":  "team",
+                      "size":  12
+                  },
+                  {
+                      "id":  "ssg",
+                      "label":  "SSG (9위)",
+                      "type":  "team",
+                      "size":  12
+                  },
+                  {
+                      "id":  "kiwoom",
+                      "label":  "키움 (10위)",
+                      "type":  "team",
+                      "size":  12
+                  },
+                  {
+                      "id":  "pit_왕옌청",
+                      "label":  "왕옌청",
+                      "type":  "pitcher",
+                      "size":  9
+                  },
+                  {
+                      "id":  "pit_시라카와",
+                      "label":  "시라카와",
+                      "type":  "pitcher",
+                      "size":  9
+                  },
+                  {
+                      "id":  "pit_테일러",
+                      "label":  "테일러",
+                      "type":  "pitcher",
+                      "size":  9
+                  },
+                  {
+                      "id":  "pit_웰스",
+                      "label":  "웰스",
+                      "type":  "pitcher",
+                      "size":  9
+                  },
+                  {
+                      "id":  "pit_김민준",
+                      "label":  "김민준",
+                      "type":  "pitcher",
+                      "size":  9
+                  },
+                  {
+                      "id":  "pit_로드리게스",
+                      "label":  "로드리게스",
+                      "type":  "pitcher",
+                      "size":  9
+                  },
+                  {
+                      "id":  "pit_김재윤",
+                      "label":  "김재윤",
+                      "type":  "pitcher",
+                      "size":  9
+                  },
+                  {
+                      "id":  "pit_김재웅",
+                      "label":  "김재웅",
+                      "type":  "pitcher",
+                      "size":  9
+                  },
+                  {
+                      "id":  "mv_하주석",
+                      "label":  "하주석",
+                      "type":  "transfer",
+                      "size":  9
+                  },
+                  {
+                      "id":  "mv_이형범",
+                      "label":  "이형범",
+                      "type":  "transfer",
+                      "size":  9
+                  }
+              ],
+    "links":  [
+                  {
+                      "source":  "kbo",
+                      "target":  "samsung",
+                      "label":  "1위 0.618"
+                  },
+                  {
+                      "source":  "kbo",
+                      "target":  "kt",
+                      "label":  "2위 0.593"
+                  },
+                  {
+                      "source":  "kbo",
+                      "target":  "lg",
+                      "label":  "3위 0.571"
+                  },
+                  {
+                      "source":  "kbo",
+                      "target":  "kia",
+                      "label":  "4위 0.538"
+                  },
+                  {
+                      "source":  "kbo",
+                      "target":  "doosan",
+                      "label":  "5위 0.528"
+                  },
+                  {
+                      "source":  "kbo",
+                      "target":  "hanwha",
+                      "label":  "6위 0.488"
+                  },
+                  {
+                      "source":  "kbo",
+                      "target":  "nc",
+                      "label":  "7위 0.483"
+                  },
+                  {
+                      "source":  "kbo",
+                      "target":  "lotte",
+                      "label":  "8위 0.449"
+                  },
+                  {
+                      "source":  "kbo",
+                      "target":  "ssg",
+                      "label":  "9위 0.378"
+                  },
+                  {
+                      "source":  "kbo",
+                      "target":  "kiwoom",
+                      "label":  "10위 0.359"
+                  },
+                  {
+                      "source":  "doosan",
+                      "target":  "kt",
+                      "label":  "경기취소"
+                  },
+                  {
+                      "source":  "hanwha",
+                      "target":  "kia",
+                      "label":  "승 9-3"
+                  },
+                  {
+                      "source":  "hanwha",
+                      "target":  "pit_왕옌청",
+                      "label":  "승리투수"
+                  },
+                  {
+                      "source":  "kia",
+                      "target":  "pit_시라카와",
+                      "label":  "패전투수"
+                  },
+                  {
+                      "source":  "nc",
+                      "target":  "lg",
+                      "label":  "승 7-5"
+                  },
+                  {
+                      "source":  "nc",
+                      "target":  "pit_테일러",
+                      "label":  "승리투수"
+                  },
+                  {
+                      "source":  "lg",
+                      "target":  "pit_웰스",
+                      "label":  "패전투수"
+                  },
+                  {
+                      "source":  "ssg",
+                      "target":  "lotte",
+                      "label":  "승 5-2"
+                  },
+                  {
+                      "source":  "ssg",
+                      "target":  "pit_김민준",
+                      "label":  "승리투수"
+                  },
+                  {
+                      "source":  "lotte",
+                      "target":  "pit_로드리게스",
+                      "label":  "패전투수"
+                  },
+                  {
+                      "source":  "samsung",
+                      "target":  "kiwoom",
+                      "label":  "승 3-1"
+                  },
+                  {
+                      "source":  "samsung",
+                      "target":  "pit_김재윤",
+                      "label":  "승리투수"
+                  },
+                  {
+                      "source":  "kiwoom",
+                      "target":  "pit_김재웅",
+                      "label":  "패전투수"
+                  },
+                  {
+                      "source":  "hanwha",
+                      "target":  "mv_하주석",
+                      "label":  "이적설"
+                  },
+                  {
+                      "source":  "kia",
+                      "target":  "mv_이형범",
+                      "label":  "이적설"
+                  }
+              ]
+}
