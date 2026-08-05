@@ -1,7 +1,7 @@
 ﻿{
     "meta":  {
-                 "date":  "2026-08-04",
-                 "generated":  "2026-08-05T04:00:39",
+                 "date":  "2026-08-05",
+                 "generated":  "2026-08-06T04:00:24",
                  "centerNodeId":  "kbo"
              },
     "nodes":  [
@@ -72,50 +72,8 @@
                       "size":  12
                   },
                   {
-                      "id":  "pit_왕옌청",
-                      "label":  "왕옌청",
-                      "type":  "pitcher",
-                      "size":  9
-                  },
-                  {
-                      "id":  "pit_양창섭",
-                      "label":  "양창섭",
-                      "type":  "pitcher",
-                      "size":  9
-                  },
-                  {
-                      "id":  "pit_전영준",
-                      "label":  "전영준",
-                      "type":  "pitcher",
-                      "size":  9
-                  },
-                  {
-                      "id":  "pit_박시원",
-                      "label":  "박시원",
-                      "type":  "pitcher",
-                      "size":  9
-                  },
-                  {
-                      "id":  "pit_로드리게스",
-                      "label":  "로드리게스",
-                      "type":  "pitcher",
-                      "size":  9
-                  },
-                  {
-                      "id":  "pit_하영민",
-                      "label":  "하영민",
-                      "type":  "pitcher",
-                      "size":  9
-                  },
-                  {
                       "id":  "mv_떠난",
                       "label":  "떠난",
-                      "type":  "transfer",
-                      "size":  9
-                  },
-                  {
-                      "id":  "mv_출신",
-                      "label":  "출신",
                       "type":  "transfer",
                       "size":  9
                   }
@@ -172,8 +130,18 @@
                       "label":  "10위 0.373"
                   },
                   {
+                      "source":  "hanwha",
+                      "target":  "samsung",
+                      "label":  "경기취소"
+                  },
+                  {
                       "source":  "kt",
                       "target":  "kia",
+                      "label":  "경기취소"
+                  },
+                  {
+                      "source":  "lg",
+                      "target":  "ssg",
                       "label":  "경기취소"
                   },
                   {
@@ -182,63 +150,13 @@
                       "label":  "경기취소"
                   },
                   {
-                      "source":  "hanwha",
-                      "target":  "samsung",
-                      "label":  "승 4-1"
-                  },
-                  {
-                      "source":  "hanwha",
-                      "target":  "pit_왕옌청",
-                      "label":  "승리투수"
-                  },
-                  {
-                      "source":  "samsung",
-                      "target":  "pit_양창섭",
-                      "label":  "패전투수"
-                  },
-                  {
-                      "source":  "ssg",
-                      "target":  "lg",
-                      "label":  "승 8-10"
-                  },
-                  {
-                      "source":  "ssg",
-                      "target":  "pit_전영준",
-                      "label":  "승리투수"
-                  },
-                  {
-                      "source":  "lg",
-                      "target":  "pit_박시원",
-                      "label":  "패전투수"
-                  },
-                  {
-                      "source":  "lotte",
-                      "target":  "kiwoom",
-                      "label":  "승 2-3"
-                  },
-                  {
-                      "source":  "lotte",
-                      "target":  "pit_로드리게스",
-                      "label":  "승리투수"
-                  },
-                  {
                       "source":  "kiwoom",
-                      "target":  "pit_하영민",
-                      "label":  "패전투수"
+                      "target":  "lotte",
+                      "label":  "경기취소"
                   },
                   {
                       "source":  "lotte",
                       "target":  "mv_떠난",
-                      "label":  "이적설"
-                  },
-                  {
-                      "source":  "kia",
-                      "target":  "mv_출신",
-                      "label":  "이적설"
-                  },
-                  {
-                      "source":  "doosan",
-                      "target":  "mv_출신",
                       "label":  "이적설"
                   }
               ]
