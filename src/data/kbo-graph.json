@@ -1,7 +1,7 @@
 ﻿{
     "meta":  {
-                 "date":  "2026-08-05",
-                 "generated":  "2026-08-06T04:00:24",
+                 "date":  "2026-08-06",
+                 "generated":  "2026-08-07T04:00:20",
                  "centerNodeId":  "kbo"
              },
     "nodes":  [
@@ -70,12 +70,6 @@
                       "label":  "키움 (10위)",
                       "type":  "team",
                       "size":  12
-                  },
-                  {
-                      "id":  "mv_떠난",
-                      "label":  "떠난",
-                      "type":  "transfer",
-                      "size":  9
                   }
               ],
     "links":  [
@@ -153,11 +147,6 @@
                       "source":  "kiwoom",
                       "target":  "lotte",
                       "label":  "경기취소"
-                  },
-                  {
-                      "source":  "lotte",
-                      "target":  "mv_떠난",
-                      "label":  "이적설"
                   }
               ]
 }
